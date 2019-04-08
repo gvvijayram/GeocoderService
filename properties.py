@@ -1,0 +1,6 @@
+hereAPIURL = "https://geocoder.api.here.com/6.2/geocode.json"
+hereAppID = "znsJKumHYxerxvD2RM8i"
+hereAppCode = "iv247yywwVeLKOWf_M4pgA"
+locationIQAPIURL = "https://us1.locationiq.com/v1/search.php"
+locationIQKey = "c8d4838d9a1d84&q"
+locationIQFormat="json"
